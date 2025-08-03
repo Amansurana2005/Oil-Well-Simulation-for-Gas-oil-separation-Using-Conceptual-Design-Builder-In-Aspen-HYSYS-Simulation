@@ -1,0 +1,2 @@
+# Oil-Well-Simulation-for-Gas-oil-separation-Using-Conceptual-Design-Builder-In-Aspen-HYSYS-Simulation
+A comprehensive process simulation of crude oil characterization and fractionation using Aspen Hysys. The project models a pre-treatment unit and an atmospheric distillation column to separate crude oil into high-value products like kerosene, diesel, and AGO, demonstrating proficiency in process design, heat integration, and equipment sizing.
